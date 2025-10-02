@@ -16,25 +16,25 @@ A modern, feature-rich food delivery application built with Flutter using BLoC a
 
 ### Restaurant Selection
 The app starts with a list of restaurants showing ratings, delivery times, and fees.
- <img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/b66331c9-4005-4d07-8e40-f2da518d2510" />
+ <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/b66331c9-4005-4d07-8e40-f2da518d2510" />
 
 
 ### Menu Browsing & Cart
 Browse menu items by category, add items to cart with quantity controls.
- <img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/68131464-d536-42a4-a879-9a8bb4696dac" />
+ <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/68131464-d536-42a4-a879-9a8bb4696dac" />
 
 ### Delivery Address
 Select from saved addresses or add a new one.
- <img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/5f62c547-aaee-4ce6-8567-20e59ce03e30" />
+ <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/5f62c547-aaee-4ce6-8567-20e59ce03e30" />
 
 
 ### Payment & Order Summary
 Choose payment method and review order details.
- <img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/5bdbfe98-1d3c-4f63-bdd1-95c716d652d1" />
+ <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/5bdbfe98-1d3c-4f63-bdd1-95c716d652d1" />
 
 ### Order Confirmation
 Confirmation screen with order details and tracking information.
- <img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/6fe923d9-956a-465a-9e00-9353e146248f" />
+ <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/6fe923d9-956a-465a-9e00-9353e146248f" />
 
 
 ## Architecture
