@@ -15,13 +15,12 @@ A modern, feature-rich food delivery application built with Flutter using BLoC a
 ## Screenshots
 
 ### Restaurant Selection
-The app starts with a list of restaurants showing ratings, delivery times, and fees.
- <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/b66331c9-4005-4d07-8e40-f2da518d2510" />
+The app starts with a list of restaurants showing ratings, delivery times, and fees.<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/b66331c9-4005-4d07-8e40-f2da518d2510" />
 
 
 ### Menu Browsing & Cart
 Browse menu items by category, add items to cart with quantity controls.
- <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/68131464-d536-42a4-a879-9a8bb4696dac" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/68131464-d536-42a4-a879-9a8bb4696dac" />
 
 ### Delivery Address
 Select from saved addresses or add a new one.
